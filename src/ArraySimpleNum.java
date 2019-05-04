@@ -1,11 +1,6 @@
 import java.util.Arrays;
 
 
-public class SystemOut{
-    
-}
-
-
 public class ArraySimpleNum {
     public static void main(String[] args) {
 
